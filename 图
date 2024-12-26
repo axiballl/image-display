@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>显示图片</title>
+</head>
+<body>
+    <img src="https://github.com/axiballl/image-display/blob/main/%E4%B8%AD%E5%A4%A7%E9%A1%B9%E7%9B%AE%E8%A7%84%E5%88%92%E5%85%AC%E7%A4%BA%E7%89%8C.jpg?raw=true" alt="自定义图片" style="max-width: 100%; height: auto;">
+</body>
+</html>
